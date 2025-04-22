@@ -23,8 +23,6 @@ This project is a **Student Performance Dashboard** created using Microsoft Exce
 
 ## 📷 Screenshots
 
-### 📈 Rank Distribution Pie Chart
-![Rank Pie Chart](d7043958-2293-4d89-b0af-2c607c4087e1.png)
 
 ### 📊 Total Marks Bar Chart
 *Included in Excel dashboard*
